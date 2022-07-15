@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = adspawtonrice@gmail.com
+	name = Angus Spawton-Rice
